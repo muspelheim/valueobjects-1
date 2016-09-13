@@ -1,0 +1,13 @@
+{
+  "name": "rhorv/valueobjects",
+  "description": "Some example valueobjects",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "RHorv\\ValueObjects\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
